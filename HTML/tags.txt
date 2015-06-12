@@ -1,0 +1,5 @@
+<br /> self closing tag that let you go to the other line in in the same paragraphe
+
+<hr/> horizontal rule tag draws a line between two paragraphes
+
+<strike>struck through</strike> this tag crosses the sentente as it was wrong

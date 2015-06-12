@@ -1,0 +1,120 @@
+// Monday 06-08-15
+youseef
+base store
+how change a component state 
+
+Brad: 
+bug file back to 31 32 
+spoon.et to test browsers
+
+hivham Proxy classes
+
+________________________________________________
+ *Git hub pull requests 
+
+isomorphic actions 
+app 
+
+application 
+
+stores 
+
+app 
+
+server side + server to server request
+using Flox architecture on server,
+
+Json servers
+
+Andrew to Peter ( Mocking???)
+
+server.js 
+_______________________________________________________________________________________
+//Tueasday 06-09-15
+
+Creg : 
+
+Val: forms with Hicham
+Hicham: form validation ; 
+Josaya: travel items , expense items, 
+Darin: prototype for a new feature 
+peter: baseline automated testing in gateway, gate way release
+wei: user app clean up , plug ins 
+brad: cleaning up CSS , custom Icon , 
+Youssef: working on documatation ; documating base store and base component:
+Andrew: scripting issues , NUI , proxy, 
+Simon: 
+
+"the NUI and getway Project"
+
+make full pages in Nodejs 
+
+isomorphic or client side??
+
+React?
+couch base?
+facebook is using react 
+
+
+
+
+
+
+
+
+NUI and concur Modules
+
+APIs are a blocler according to Val when Andrew said he wants pages done by the end of the Year.
+______________________________________________________________________________________________________
+
+Wednesday 6-10-15
+
+darin: 
+wei: updated user app on NUI 
+Brad: 
+peter : learning more about Expense; working on Gateway
+:: backlog Items , loginn IDs 
+
+Youssef: documentation ( base components, Store) working on step by step on how to create a page.
+val: pull request for protect application
+
+today's Topic
+APIs department 
+
+_________________________________________________________________________________________________________________
+Thursday 6-11-15
+
+Travel release and automation from Jasaya
+
+Peter : gateway automation
+
+Wei: React and Facebook
+
+Val:
+
+Hicham: working on Validation
+
+Jeff : 
+
+Jenin : 
+
+Darin : cross site scripting issues+ invoice purchasing project
+
+Donnel : working on the release
+
+Greg
+
+Brad: 
+
+Youssef: added more documentation, working file generator using "yolman"?? add a page to NUI? 
+
+NUI project has been moved to GitHub
+
+Andrew: 
+
+React, Flox and Nui architecture 
+
+Ot protect shell, NUI 
+
+
+grul (to have everyone share their work?)
